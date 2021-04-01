@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14c048b359102b2d72f4db314775fc1237f236fe74ad5f5f93425e348d02f3d1
-size 876
+location,year,category,rank,query
+Global,2001,Consumer Brands,1,Nokia
+Global,2001,Consumer Brands,2,Sony
+Argentina,2015,Qué...,2,Qué es ISIS
+Global,2001,Consumer Brands,4,Palm
+Greece,2016,Διασημότητες,3,Γιάννης Χαρούλης
+Spain,2015,Los términos que más crecieron,2,Eurovisión
+South Korea,2015,조리법,5,파김치 맛있게 담는 법
+Global,2001,Movies,1,Harry Potter
+Global,2001,Movies,2,Lord of the Rings
+Israel,2015,סרטים,1,מהיר ועצבני 7
+Israel,2015,סרטים,2,50 גוונים של אפור
+Japan,2016,映画,3,ズートピア
+Russia,2020,«Что такое...?»/«Что значит...?»,1,Пандемия
+Russia,2020,«Что такое...?»/«Что значит...?»,2,Коронавирус
+Uruguay,2015,Qué es...,3,Qué es un eclipse
+Latvia,2018,Visvairāk meklētie notikumi,4,IKEA Latvijā
+Lithuania,2018,Filmai,3,Bohemian rhapsody
